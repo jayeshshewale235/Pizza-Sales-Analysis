@@ -5,12 +5,16 @@ Project Overview
 Preview of Projects
 
 SQL Queries: SQL Pizza Sales Queries
+<img width="1138" height="1334" alt="image" src="https://github.com/user-attachments/assets/943e3329-2d99-48f7-8ff2-74eeba4cc07a" />
 
 Excel Pizza Sales Analytics Dashboard: Excel Pizza Sales Dashboard
+<img width="2120" height="1167" alt="image" src="https://github.com/user-attachments/assets/f1538ab2-496c-465f-a028-28f0a859e60f" />
 
 Power BI Pizza Sales Analytics Dashboard: Pizza Sales Power Bi
+<img width="2121" height="1169" alt="image" src="https://github.com/user-attachments/assets/a11dcbc1-a34f-4b66-900f-67d7a6b4ca9b" />
 
 Tableau Pizza Sales Analytics Dashboard: Pizza Sales Home Pizza Sales Best   Worst Sellers
+<img width="3198" height="1798" alt="image" src="https://github.com/user-attachments/assets/c3480cf1-026d-454e-9924-32a4b47117f1" />
 
 Project Overview
 
